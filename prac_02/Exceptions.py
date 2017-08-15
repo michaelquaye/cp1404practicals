@@ -20,4 +20,4 @@ except ValueError:
 except ZeroDivisionError:
     print("Cannot divide by zero!")
 
-print("Finished.")
+print("Finish.")
